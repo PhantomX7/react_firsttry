@@ -1,6 +1,10 @@
 # CLONED FROM https://github.com/StephenGrider/ReduxSimpleStarter.git
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+# Simple How to Run
+1. clone the project
+2. in the project root run npm install
+3. then npm start
+4. open you favorite browser and go to localhost:8080
 
 # ReduxSimpleStarter
 
