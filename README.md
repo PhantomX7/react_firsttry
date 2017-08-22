@@ -1,5 +1,7 @@
 # CLONED FROM https://github.com/StephenGrider/ReduxSimpleStarter.git
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
